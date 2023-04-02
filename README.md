@@ -45,3 +45,12 @@ El Día del Veterano y de los Caídos en la Guerra de Malvinas es un día de hom
 Esta fecha es un feriado nacional en Argentina y se llevan a cabo actos conmemorativos en todo el país, incluyendo desfiles, homenajes a los veteranos y a los caídos, y actividades culturales y educativas para recordar y honrar la memoria de aquellos que participaron en la Guerra de Malvinas.
 
 VIDEO CON GRABACIONES REALES DEL ACTO BELICO : https://youtu.be/PwEW6RrHzTg
+
+                                    DATOS SOBRE MI:
+
+[Imagen](./assets/imagen1.jpg)
+
+Mi nombre es Joaquin Noguera, tengo 19 años cumplo el 28 de septiembre.
+
+    Actualmente estoy estudiando en la Universidad Nacional De Hurlingham (UNAHUR)
+    la tecnicatura Universitaria en Programación.
